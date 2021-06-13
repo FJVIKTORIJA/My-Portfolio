@@ -7,7 +7,8 @@ This portfolio has been created to present personal current and upcoming skills 
 While creating my personal portfolio I was able to apply and learn more about functionallity and application of HTML and CSS importance and practice to create a real web page and identify personal mistakes.
 
 ## Installation
-Personal portfolio can be opened using link below:
+Personal portfolio can be opened using this link:
+( https://fjviktorija.github.io/My-Portfolio/ )
 
 
 ## Usage
